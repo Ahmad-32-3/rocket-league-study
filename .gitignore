@@ -1,6 +1,13 @@
 .env
+.env.*
+!.env.example
 __pycache__/
 *.pyc
 .cache/
 progress.json
 *.tmp
+*.log
+_probe_detail.json
+.DS_Store
+.venv/
+venv/
